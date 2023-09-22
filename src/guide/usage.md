@@ -1,9 +1,9 @@
 Usage
 ===
 
-Once you have the `clafrica` installed, you can use it.
+Once you have the `afrim` installed, you can use it.
 But before you should download or write your own configuration file.
-You can download a official dataset via the [Clafrica Dataset Repository](https://github.com/pythonbrad/clafrica-data).
+You can download a official dataset via the [Afrim Dataset Repository](https://github.com/pythonbrad/afrim-data).
 
 Sample configuration file
 ---
@@ -23,4 +23,4 @@ Check out the [Configuration Guide](/configuration) for more information about h
 
 Demo
 ---
-Considering the sample configuration file above, you can run the clafrica with this command `clafrica config.toml`.
+Considering the sample configuration file above, you can run the afrim with this command `afrim config.toml`.

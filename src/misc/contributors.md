@@ -1,4 +1,4 @@
 # Contributors
 
-- Brady Fomegne ([pythonbrad](https://github.com/pythonbrad))
+Afrim was developed by Brady Fomegne ([pythonbrad](https://github.com/pythonbrad)).
 
