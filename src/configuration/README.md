@@ -27,7 +27,7 @@ Supported configuration options
 ---
 It's important to note that **any** relative path specified in the configuration will always be taken from the path where the configuration file is located.
 
-- [Core](/configuration/core.md) configuration to modify the internal behavior of the clafrica.
+- [Core](/configuration/core.md) configuration to modify the internal behavior of afrim.
 - [Data](/configuration/data.md) configuration to setup a sequential coding system.
 - [Translator](/configuration/translator.md) configuration for auto-suggestions.
 

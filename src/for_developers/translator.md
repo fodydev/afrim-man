@@ -1,11 +1,11 @@
 Translator
 ===
 
-A "translator" is simply a program which `clafrica` will invoke during the translation process, allowing you to use programmable predictions. Possible use cases are:
+A "translator" is simply a program which `afrim` will invoke during the translation process, allowing you to use programmable predictions. Possible use cases are:
 - Auto-correction
 - Auto-suggestion
 
-The fact that clafrica utilizes [The Rhai Scripting Language](https://rhai.rs) makes it easy to implement a simple translator.
+The fact that afrim utilizes [The Rhai Scripting Language](https://rhai.rs) makes it easy to implement a simple translator.
 
 The following code block shows how to write a translator who suggest a date in another format.
 
@@ -41,7 +41,7 @@ fn parse_date(input) {
 
 // Main function
 fn translate(input) {
-    let data = core::parse_cmd(input);
+    let data = parse_cmd(input);
     let date = parse_date(data);
     
     if !date.is_empty() {
