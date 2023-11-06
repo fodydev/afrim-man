@@ -10,6 +10,11 @@ The two main ways a developer can hook into the afrim working is via,
 - [Translator](./translator.md)
 - [Frontend](./frontend.md)
 
+Afrim Brief Architecture
+---
+
+![Brief Architecture](./brief_architecture.png)
+
 Afrim Working
 ---
 The working of afrim goes through several steps.
